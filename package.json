@@ -1,0 +1,15 @@
+{
+  "name": "tensan",
+  "version": "1.0.0",
+  "description": "Rate Calculator for Riichi Mahjong",
+  "main": "index.js",
+  "scripts": {
+    "main": "tsc && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
